@@ -11,4 +11,4 @@ A simple space exploration roguelike for 7DRL 2017.
 * Latest Version(Korean) - [Download](https://github.com/marukrap/Woozoolike/releases/download/0.1/Woozoolike-Update1.2K.zip)
 
 ## Contact
-* Email: marukrap@gmail.com
+* Discord: https://discord.gg/RhH3vyn
